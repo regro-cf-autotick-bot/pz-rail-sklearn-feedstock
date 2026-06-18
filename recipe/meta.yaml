@@ -1,6 +1,6 @@
 {% set name = "pz-rail-sklearn" %}
 {% set version = "2.0.2" %}
-{% set python_min = "3.10" %}
+{% set python_min = "3.11" %}
 
 package:
   name: {{ name|lower }}
